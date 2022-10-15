@@ -29,15 +29,7 @@
 
   <!----------------------------------- Profile View Section ------------------------------------>
 
-  <p align="left">
-    <a href="https://github.com/ArjunSinghBhakuni">
-      <img src="https://komarev.com/ghpvc/?username=ArjunSinghBhakuni&label=Profile%20views&color=0e75b6&style=flat"
-        alt="m-sehrawat" />
-    </a>
-    <!--     <a href="https://github.com/ArjunSinghBhakuni?tab=followers">
-        <img src="https://img.shields.io/github/followers/ArjunSinghBhakunit?label=Followers&style=social" alt="followers-count">
-    </a> -->
-  </p>
+   
 
 
 
