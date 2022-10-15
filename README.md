@@ -17,7 +17,7 @@
   - 🌱 I’m currently Learning MERN Stack at Masai School.
   - 🌏 Looking to solve real-world problems.
   - 💻 I'm passionate about making creative websites.
-  - ⚡ Fact: I love to make videos on youtube.
+  
   - 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs,Chakra Ui, Npm.
 
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>i love networking with
