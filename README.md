@@ -1,5 +1,7 @@
    ### Hi there, I'm Sohil 👋
-
+<a href="https://sohilweb20.github.io">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://sohilweb20.github.io" />
+</a>
 
   <a title="Sohilkhanhatewa@gmail.com" href="mailto:Sohilkhanhatewa@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
