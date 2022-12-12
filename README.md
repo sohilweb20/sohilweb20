@@ -1,10 +1,12 @@
+ <h1 align="center">Hi 👋, I'm Sohil</h1>
+
+ 
  [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)]()
 
-<h1 align="center">Hi 👋, I'm Sohil</h1>
-<div display="flex" align="center"><a href="https://sohilweb20.github.io">
+
+<div display="flex" align="center"  ><a href="https://sohilweb20.github.io">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://sohilweb20.github.io" />
 </a>
-
   <a title="Sohilkhanhatewa@gmail.com" href="mailto:Sohilkhanhatewa@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="1995sirohis@gmail.com" />
