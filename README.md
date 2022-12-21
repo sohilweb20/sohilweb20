@@ -34,11 +34,14 @@
 
   ---
   
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohilweb20&theme=2077" width="100%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sohilweb20&theme=react-dark&custom_title=sohilweb20%20's%20contribution%20Graph&hide_border=true" />
+  
 <!--   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohilweb20&label=Profile%20views&color=0e75b6&style=flat" alt="sohilweb20" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohilweb20" alt="sohilweb20" /></a> </p> -->
 
-   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sohilweb20&theme=dracula&hide_border=true)
+<!--    ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sohilweb20&theme=dracula&hide_border=true) -->
 
   <!----------------------------------- Tech Stack Section ------------------------------------>
 
