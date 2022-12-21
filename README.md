@@ -28,7 +28,7 @@
 <a href="https://github.com/sohilweb20" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href=" https://www.instagram.com/sohilkhan_18/" style="text-decoration:none">
+<a href="https://www.instagram.com/sohilkhan_18/" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
  
