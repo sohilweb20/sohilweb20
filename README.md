@@ -44,7 +44,7 @@
   ---
 
   ## I'm a Software Engineer and Life Long Learner!
-  - 🌱 I’m currently Learning MERN Stack at Masai School.
+<!--   - 🌱 I’m currently Learning MERN Stack at Masai School. -->
   - 🌏 Looking to solve real-world problems.
   - 💻 I'm passionate about making creative websites.
   
