@@ -48,10 +48,10 @@
   - 🌏 Looking to solve real-world problems.
   - 💻 I'm passionate about making creative websites.
   
-  - 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs,Chakra Ui, Npm.
+  - 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs, Express.js, SQL, NO SQL, Chakra Ui, Bootstrap.
 
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>i love networking with
-      people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+<!--   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>i love networking with
+      people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em> -->
 
   ---
   
