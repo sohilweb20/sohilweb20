@@ -22,15 +22,15 @@
 <a href="https://sohilweb20.github.io/" target="_blank">
    <img src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a>
-<a href="https://www.linkedin.com/in/sohil-khan-3b4772239/" style="text-decoration:none">
+<a href="https://www.linkedin.com/in/sohil-fullstack/" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/sohilweb20" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/sohilkhan_18/" style="text-decoration:none">
+<!-- <a href="https://www.instagram.com/sohilkhan_18/" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
+</a> -->
  
 <br />
  
@@ -44,11 +44,11 @@
   ---
 
   ## I'm a Software Engineer and Life Long Learner!
-<!--   - 🌱 I’m currently Learning MERN Stack at Masai School. -->
+<!--   - 🌱 I’m currently Working as a Full Stack Mobile & Web Developer  at Moshi Moshi. -->
   - 🌏 Looking to solve real-world problems.
   - 💻 I'm passionate about making creative websites.
   
-  - 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs, Express.js, SQL, NO SQL, Chakra Ui, Bootstrap.
+  - 💬 Ask me about Javascript, HTML, CSS, React, React Native, Redux, Nodejs, Express.js, SQL, NO SQL, Chakra Ui, Bootstrap.
 
 <!--   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>i love networking with
       people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em> -->
